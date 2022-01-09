@@ -3,4 +3,4 @@ Source code for my youtube video.
 
 https://youtu.be/4UMQcQgSzNo
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
